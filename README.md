@@ -1,5 +1,5 @@
 # gen_us
-Generator of users
+Generator of fake users
 
 by pinjup
 
